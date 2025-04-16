@@ -1,7 +1,9 @@
 # Contextualização
 
-Este site foi desenvolvido como parte do projeto do curso de HTML e CSS oferecido pela plataforma Curso em Vídeo. O objetivo do projeto é aplicar os conhecimentos adquiridos ao longo do curso para criar uma página funcional e responsiva, utilizando as principais práticas de desenvolvimento web com HTML e CSS. Através dessa experiência, busquei aprimorar minhas habilidades em criação de layouts, estruturação de conteúdo e estilização de páginas, visando proporcionar uma navegação agradável e eficiente para os usuários.
+Este portfólio de projetos foi desenvolvido como parte do curso de HTML e CSS oferecido pelo Curso em Vídeo (https://www.youtube.com/c/CursoemV%C3%ADdeo). O objetivo é apresentar os conhecimentos adquiridos ao longo do curso, com foco na criação de sites funcionais e responsivos, utilizando as melhores práticas de desenvolvimento web em HTML e CSS. Durante esse processo, busquei aprimorar minhas habilidades na criação de layouts, estruturação de conteúdo e estilização de páginas, com o intuito de proporcionar uma navegação intuitiva, agradável e eficiente para os usuários.
 
 
 # Forma de acesso
-para acessar o seguinte projeto, utilize o seguinte link: https://bernardolcb.github.io/learning-html-css/
+(1) --> Para acessar o primeiro site, utilize o seguinte link: https://bernardolcb.github.io/learning-html-css/curso-html-css/Website1-CuriosidadesDeTecnologia/
+
+(2) --> Para acessar o primeiro site, utilize o seguinte link:
